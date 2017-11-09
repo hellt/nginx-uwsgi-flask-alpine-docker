@@ -1,0 +1,1 @@
+A lightweight **Alpine Linux** Docker container image for **Flask** application served by **uWSGI** and **NGINX**, managed by **Supervisord**. Read all about it in [this blog post](https://netdevops.me/2017/flask-application-in-a-production-ready-container/).
