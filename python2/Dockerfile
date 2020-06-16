@@ -1,4 +1,4 @@
-FROM alpine
+FROM alpine:3.10
 
 LABEL maintainer "Roman Dodin <dodin.roman@gmail.com>"
 LABEL description "Nginx + uWSGI + Flask based on Alpine Linux and managed by Supervisord"
